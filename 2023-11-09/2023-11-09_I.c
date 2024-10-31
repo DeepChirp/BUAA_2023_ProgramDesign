@@ -3,7 +3,7 @@
 #define MAX_N 1000000
 
 int n, t;
-int apples[MAX_N];
+int apples[MAX];
 
 // 检查是否可以将最大苹果数量降低到 mid
 int check(int mid)
